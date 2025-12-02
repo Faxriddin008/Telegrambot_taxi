@@ -24,7 +24,7 @@ except Exception as e:
 DB_HOST = os.environ.get("dpg-d4mq93hr0fns73adstig-a")
 DB_USER = os.environ.get("telegram_bot_nc61_user")
 DB_PASSWORD = os.environ.get("3AzjnFQbCT9YWkC5yauXnBQiETAo4YcK")
-DB_NAME = os.environ.get("telegram_bot_nc61")
+DB_NAME = os.environ.get("telegrambot_taxi")
 DB_PORT = os.environ.get("5432") # Agar port alohida bo'lsa
 
 # Ishga tushirishdan oldin TOKEN mavjudligini tekshirish
