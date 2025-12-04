@@ -1,3 +1,1 @@
-[tool.poetry.dependencies]
-# Python 3.13.4 o'rniga Python 3.11 ni talab qilish
 python = "^3.11"
